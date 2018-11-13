@@ -1,2 +1,2 @@
 # TestRepo
-Test repository for MSDS 6306: Doing Data Science.
+Test repository for the 2018 winter session of MSDS 6306.402: Doing Data Science.
